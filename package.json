@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "serve": "vite",
+    "serve": "vite ---port 8444",
     "build": "vite build",
     "build:mirror": "cross-env MIRROR=ON vite build",
     "preview": "vite preview",
