@@ -1,10 +1,10 @@
 {
-    id: 0,
-    name: '默认订阅',
+    id: 5,
+    name: '官方(改)',
     version: 183,
-    author: 'lisonge',
-    supportUri: 'https: //github.com/gkd-kit/subscription',
-    checkUpdateUrl: 'https: //registry.npmmirror.com/@gkd-kit/subscription/latest/files/dist/gkd.version.json',
+    author: 'nz',
+    supportUri: 'https: //github.com/',
+    checkUpdateUrl: 'https://raw.githubusercontent.com/3380502112/inspect/main/nz.json',
     globalGroups: [
         {
             key: 0,
